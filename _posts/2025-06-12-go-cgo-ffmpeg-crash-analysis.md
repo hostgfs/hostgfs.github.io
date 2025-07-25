@@ -1,5 +1,5 @@
 ---
-title: Go+FFmpeg静态编译场景下偶发crash排查与修复实践（已脱敏）
+title: Go+FFmpeg偶发crash修复
 date: 2025-06-12 15:00:00 +0800
 categories: [后端开发, 音视频]
 tags: [Go, FFmpeg, cgo, 静态编译, 崩溃排查]
